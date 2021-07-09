@@ -1,4 +1,4 @@
-#Java JDBC with MySQL using Repository Pattern &amp; Template Pattern
+# Java JDBC with MySQL using Repository Pattern &amp; Template Pattern
 A very basic CLI CRUD Database Application
 
 ## Thank You!
@@ -6,7 +6,7 @@ Please ⭐️ this repo and share it with others
 
 ### Requirements 🔧
 * Java version 8 or higher.
-* mysql-connector-java-8.0.21.jar
+* mysql-connector-java-8.0.21.jar <a href='https://github.com/SunilBohara/Repository-and-Template-Pattern-in-Java-using-JDBC/raw/master/dist/lib/mysql-connector-java-8.0.21.jar'> Download Here</a>
 
 ### Installation 🔌
 1. Press the **Fork** button (top right the page) to save copy of this project on your account.
